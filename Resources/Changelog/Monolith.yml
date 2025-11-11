@@ -13982,3 +13982,12 @@ Entries:
   id: 1547
   time: '2025-11-10T23:56:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2545
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: >-
+        Colossus shooting range is now functional. The abandoned shop shutter
+        doors can now correct themselves if desynced.
+  id: 1548
+  time: '2025-11-11T00:19:05.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2596
