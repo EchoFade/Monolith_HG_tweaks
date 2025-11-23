@@ -14242,3 +14242,10 @@ Entries:
   id: 1579
   time: '2025-11-23T16:22:01.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2677
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: Severely lowered Rogue AI mobs health.
+  id: 1580
+  time: '2025-11-23T18:40:29.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2671
